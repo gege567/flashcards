@@ -1,12 +1,12 @@
 body{
     background-color:magenta;
-    font-size:3rem ;
+    font-size:7rem ;
     font-family: 'Bokor';
 }
 footer{
 
-    background-color: floralwhite;
-    color: midnightblue;
+    background-color: midnightblue;
+    color: floralwhite;
 
     bottom: 0;
     position: fixed;
