@@ -4,8 +4,8 @@ body{
     font-family: 'Bokor';
 }
 footer{
-    background-color: floralwhite;
-    color: midnightblue;
+    background-color: rgb(255, 0, 0);
+    color: chartreuse;
     bottom: 0;
     position: fixed;
     width: 100%;
